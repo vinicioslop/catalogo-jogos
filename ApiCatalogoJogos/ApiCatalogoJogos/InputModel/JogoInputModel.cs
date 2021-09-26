@@ -19,4 +19,3 @@ namespace ApiCatalogoJogos.InputModel
         public double Preco { get; set; }
     }
 }
-}
